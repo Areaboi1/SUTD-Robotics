@@ -1,1 +1,3 @@
 # SUTD-Robotics
+Signed up for a robotics competition, came a day late and then left the day after to go to INdia and coded from overseas for the bot. Most scuffed attempt for a competition but here we are. Goal is to make two robots one autonomous and the other controlled to tackle mock floods in the designated play area by rescuing civilians, supplies and draining water.
+Divided the work and i was assigned to do the autonomous bot. We were recommended made to use a python programming tool that uses blocks something like the Stack Cat. Sounds easy but there is no documentation so had to OTOT and understand stuff on our own. Will give a proper summary once the comp is over
